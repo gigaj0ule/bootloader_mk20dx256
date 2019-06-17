@@ -1,0 +1,8 @@
+usb
+r
+u Kinetis
+usb 
+r
+erase
+loadbin ..\build\bootloader.bin, 0
+q

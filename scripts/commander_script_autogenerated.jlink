@@ -1,0 +1,8 @@
+usb
+r
+u Kinetis
+usb
+r
+erase
+loadbin /home/user/windows/shared/nextcloud/Projects/_source_codes/universal_ar_vr_firmware_mk20dx256/bootloader/build/bootloader.bin, 0
+q
