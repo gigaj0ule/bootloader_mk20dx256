@@ -9,7 +9,7 @@ Installing
 
 On a Teensy 3.2, you can use the Teensy Loader application to install `bootloader.hex`. Afterwards, your Teensy should appear to the system as a "Bootloader" USB device capable of loading an application firmware image.
 
-If you want to upload the bootloader directly, this can be done wirh serial-wire-debug or JTAG, and openOCD.
+If you want to upload the bootloader directly, this can be done with serial-wire-debug or JTAG, and openOCD.
 
 Application Interface
 ---------------------
